@@ -1,0 +1,153 @@
+.header { 
+  margin: 0px auto; 
+   
+}
+
+.main, .footer {
+    margin: 0px auto; 
+    max-width: 1024px; 
+
+}
+
+
+figure.guessinggameimage img, figure.guessinggameimage img {width: 100%;}
+figure.guessinggameimage {width: 100%;}
+
+
+.companyname, .companyslogan {
+    font-family: 'roboto';  
+    position: absolute;  
+    color: yellow; 
+    left: 100px; 
+    
+}
+
+.companyname { 
+    font-size: 36px;   
+    top: 5px; 
+    
+}
+
+.companyslogan {
+    font-size: 30px; 
+    padding-top: 50px;   
+    top: 15px;   
+}
+
+
+.companynamepage {
+    margin-top: 10px; 
+    padding-left: 20px;   
+    padding-top: 30px; 
+    padding-bottom: 10px; 
+    
+}
+
+
+
+.skills {
+    padding-left: 60px;
+    background-color: whitesmoke; 
+    padding-top: 30px; 
+    padding-bottom: 30px;
+    font-size: 24px; 
+   
+}
+
+
+.listofskills {
+    padding-left: 80px;
+    font-size: 18px; 
+    
+    
+    
+}
+
+
+.instructions {
+    padding-left: 60px; 
+    padding-right: 60px; 
+    font-size: 18px; 
+    
+    
+    
+}
+
+
+.gametitles { 
+    width: 100%; 
+    font-size: 18px; 
+    padding-left: 20px; 
+    background-color: whitesmoke;
+}
+
+
+
+.game { 
+    padding-top: 20px; 
+    width: 100%; 
+    
+}
+
+
+
+.number {
+    width: 200px; 
+    height: 30px; 
+    padding-left: 60px;
+    margin-left: 60px; 
+}
+
+
+
+
+
+
+
+.guessnumberbutton {
+    margin-top: 30px; 
+    
+}
+
+
+
+
+.totalaward {
+    
+    
+    
+}
+
+
+
+
+.ribbons {
+     
+   
+    
+}
+
+
+
+
+.awardresponse { 
+    font-size: 20px; 
+    text-align: center;
+    padding-top: 20px; 
+}
+
+
+
+
+
+.copyright {
+    text-align: center; 
+    font-size: 14px;
+    margin-top: 250px; 
+    padding: 5px; 
+    background-color: navy; 
+    color: white; 
+   
+    
+}
+
