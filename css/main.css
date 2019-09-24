@@ -1,16 +1,16 @@
 .header { 
-  margin: 0px auto; 
+    margin: 0px auto;
    
 }
 
 .main, .footer {
     margin: 0px auto; 
-    max-width: 1024px; 
+    max-width: 1200px; 
 
 }
 
 
-figure.guessinggameimage img, figure.guessinggameimage img {width: 100%;}
+figure.guessinggameimage img, figure.guessinggameimage img {width: 100%; margin: 0px auto; max-width: 1200px;}
 figure.guessinggameimage {width: 100%;}
 
 
@@ -37,7 +37,7 @@ figure.guessinggameimage {width: 100%;}
 
 .companynamepage {
     margin-top: 10px; 
-    padding-left: 20px;   
+    padding-left: 100px;   
     padding-top: 30px; 
     padding-bottom: 10px; 
     
@@ -46,7 +46,7 @@ figure.guessinggameimage {width: 100%;}
 
 
 .skills {
-    padding-left: 60px;
+    padding-left: 100px;
     background-color: whitesmoke; 
     padding-top: 30px; 
     padding-bottom: 30px;
@@ -56,85 +56,22 @@ figure.guessinggameimage {width: 100%;}
 
 
 .listofskills {
-    padding-left: 80px;
-    font-size: 18px; 
-    
-    
-    
-}
-
-
-.instructions {
-    padding-left: 60px; 
-    padding-right: 60px; 
-    font-size: 18px; 
-    
-    
-    
-}
-
-
-.gametitles { 
-    width: 100%; 
-    font-size: 18px; 
-    padding-left: 20px; 
-    background-color: whitesmoke;
-}
-
-
-
-.game { 
-    padding-top: 20px; 
-    width: 100%; 
-    
-}
-
-
-
-.number {
-    width: 200px; 
-    height: 30px; 
-    padding-left: 60px;
-    margin-left: 60px; 
-}
-
-
-
-
-
-
-
-.guessnumberbutton {
-    margin-top: 30px; 
-    
-}
-
-
-
-
-.totalaward {
-    
-    
-    
-}
-
-
-
-
-.ribbons {
-     
-   
-    
-}
-
-
-
-
-.awardresponse { 
+    padding-left: 100px; 
     font-size: 20px; 
-    text-align: center;
-    padding-top: 20px; 
+
 }
+
+.cbimage {
+position: absolute; 
+top: 43%; 
+left: 80%; 
+transform: translate(-50%, -75%); 
+text-align: center;
+font-size: 36px;  
+}
+
+
+
 
 
 
@@ -143,9 +80,9 @@ figure.guessinggameimage {width: 100%;}
 .copyright {
     text-align: center; 
     font-size: 14px;
-    margin-top: 250px; 
+    margin-top: 50px; 
     padding: 5px; 
-    background-color: navy; 
+    background-color: #480452; 
     color: white; 
    
     
